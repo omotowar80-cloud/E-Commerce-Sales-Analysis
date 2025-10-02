@@ -1,4 +1,4 @@
-README.md Example
+README.md 
 
 Project Title: E-Commerce Sales Analysis
 
