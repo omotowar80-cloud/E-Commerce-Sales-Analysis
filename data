@@ -1,1 +1,35 @@
-
+OrderID,Product,Region,Quantity,UnitPrice,OrderDate,TotalSales
+1001,Books,South,7,310,2023-01-01,2170
+1002,Sports,South,2,141,2023-01-02,282
+1003,Home & Kitchen,South,2,301,2023-01-03,602
+1004,Sports,East,1,79,2023-01-04,79
+1005,Sports,East,8,261,2023-01-05,2088
+1006,Clothing,West,1,424,2023-01-06,424
+1007,Home & Kitchen,West,9,284,2023-01-07,2556
+1008,Home & Kitchen,North,6,454,2023-01-08,2724
+1009,Home & Kitchen,North,7,373,2023-01-09,2611
+1010,Sports,West,7,191,2023-01-10,1337
+1011,Books,East,3,176,2023-01-11,528
+1012,Home & Kitchen,South,2,100,2023-01-12,200
+1013,Sports,West,9,211,2023-01-13,1899
+1014,Clothing,North,8,355,2023-01-14,2840
+1015,Books,East,7,28,2023-01-15,196
+1016,Clothing,West,9,48,2023-01-16,432
+1017,Books,West,4,135,2023-01-17,540
+1018,Sports,East,4,460,2023-01-18,1840
+1019,Electronics,West,1,182,2023-01-19,182
+1020,Books,East,8,150,2023-01-20,1200
+1021,Clothing,South,3,251,2023-01-21,753
+1022,Sports,East,7,229,2023-01-22,1603
+1023,Books,East,2,135,2023-01-23,270
+1024,Electronics,East,2,67,2023-01-24,134
+1025,Electronics,West,7,157,2023-01-25,1099
+1026,Home & Kitchen,West,6,485,2023-01-26,2910
+1027,Home & Kitchen,East,3,465,2023-01-27,1395
+1028,Clothing,West,9,326,2023-01-28,2934
+1029,Books,North,6,392,2023-01-29,2352
+1030,Books,North,6,370,2023-01-30,2220
+1031,Home & Kitchen,West,1,432,2023-01-31,432
+10132,Books,West,4,10,2023-02-01,40
+... (additional rows omitted for brevity)
+1200,Books,South,9,268,2023-07-19,2412
