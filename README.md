@@ -27,21 +27,3 @@ Monthly and regional sales trends
 
 Recommendations for inventory and marketing strategy
 
-
-## 🚀 Setup Instructions
-
-Follow these steps to run the project on your own machine:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
-cd ecommerce-sales-analysis
-
-## 🚀 Setup Instructions
-
-Follow these steps to run the project on your own machine:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
-cd ecommerce-sales-analysis
