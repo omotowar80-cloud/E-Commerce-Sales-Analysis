@@ -8,3 +8,4 @@
 ## Example
 - Created time-series plots to analyze monthly sales trends
 - Built bar charts of top-selling products by category
+- Used **heatmaps** to identify correlations between discounts and sales.
