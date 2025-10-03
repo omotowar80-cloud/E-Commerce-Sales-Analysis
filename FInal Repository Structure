@@ -1,0 +1,37 @@
+E-Commerce-Sales-Analysis/
+│
+├── skills_demonstrated/
+│   ├── python_analysis.md         # pandas, matplotlib, seaborn usage
+│   ├── sql_analysis.md            # SQL queries + outputs
+│   ├── excel_google_sheets.md     # pivot tables, summaries screenshots
+│   ├── tableau_dashboard.md       # Tableau dashboard description + link
+│   └── data_storytelling.md       # Reporting + storytelling techniques
+│
+├── key_insights/
+│   ├── top_selling_products.md    # Products, seasonal trends (with charts)
+│   ├── customer_segmentation.md   # Segments by frequency/value
+│   ├── monthly_regional_trends.md # Regional + monthly sales performance
+│   └── recommendations.md         # Inventory + marketing strategy
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   └── 03_sales_insights.ipynb
+│
+├── sql_queries/
+│   ├── extract_orders.sql
+│   ├── top_products.sql
+│   └── customer_segments.sql
+│
+├── dashboard/
+│   ├── ecommerce_dashboard.twbx   # Tableau file
+│   └── dashboard_screenshot.png   # Screenshot of Tableau dashboard
+│
+├── reports/
+│   ├── sales_trends.png
+│   ├── top_products.png
+│   └── customer_segments.png
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
