@@ -1,29 +1,34 @@
-README.md 
+# E-Commerce Sales Analysis
 
-Project Title: E-Commerce Sales Analysis
+## 📌 Overview
+This repository contains a complete analysis of e-commerce sales data.  
+The goal is to uncover sales trends, customer behavior, and business opportunities while demonstrating technical and storytelling skills.  
 
-Overview:
-This project analyzes e-commerce sales data to identify top-selling products, customer purchasing patterns, and sales trends over time. It includes data cleaning, exploratory analysis, SQL queries, and dashboard visualizations.
+👉 For a **high-level executive summary**, see [REPORT.md](REPORT.md).
 
-Skills Demonstrated:
+---
 
-Python (pandas, matplotlib, seaborn)
+## 🛠️ Skills Demonstrated
+This project showcases practical applications of multiple tools and techniques:
 
-SQL (data extraction and manipulation)
+- **Python** (pandas, matplotlib, seaborn) → Data cleaning, EDA, visualizations  
+- **SQL** → Data extraction and manipulation  
+- **Excel/Google Sheets** → Pivot tables, quick summaries  
+- **Tableau** → Interactive dashboards  
+- **Data Storytelling** → Turning data into actionable insights  
 
-Excel/Google Sheets (pivot tables, summaries)
+📂 Details in [`skills_demonstrated/`](skills_demonstrated)
 
-Tableau (interactive dashboards)
+---
 
-Data storytelling and reporting
+## 🔑 Key Insights
+- **Top-selling products & seasonal trends**  
+- **Customer segmentation** (frequency & value)  
+- **Monthly and regional sales performance**  
+- **Actionable recommendations** for inventory and marketing  
 
-Key Insights:
+📂 Detailed breakdown in [`key_insights/`](key_insights)
 
-Top-selling products and seasonal trends
+---
 
-Customer segmentation by purchase frequency and value
-
-Monthly and regional sales trends
-
-Recommendations for inventory and marketing strategy
-
+## 📂 Repository Structure
