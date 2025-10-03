@@ -5,4 +5,3 @@
 - Seasonal spikes occurred during **November–December (holiday shopping)**.
 - Discounted products showed a sharp rise in sales volume but reduced profit margins.
 
-📊 See visualization: `reports/top_products.png`
